@@ -15,7 +15,7 @@
 
 
 # SAKURA HOPE (SAKURA'S CARDPCAPTION INSPIRATION)
-![image](https://github.com/user-attachments/assets/f90ba345-1b50-4f09-bf0a-6f9206c910da)
+![Repository Banner](https://github.com/user-attachments/assets/f90ba345-1b50-4f09-bf0a-6f9206c910da)
 
 --------------------------------------------------------------------------------------
 
