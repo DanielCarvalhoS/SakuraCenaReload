@@ -4,7 +4,7 @@
 >
 >Projeto: Criação de cena usando filme/série como referência.
 >
-Filme/Série usado: Sakura CardCaption
+>Filme/Série usado: Sakura CardCaption
 >
 >
 >Escola: Etec Professor Basilides de Godoy
