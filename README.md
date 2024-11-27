@@ -1,5 +1,8 @@
 https://drive.google.com/file/d/1OAZSTOOwxYbxo1aYdh1I0BbCGrh04zzB/view?usp=sharing
----CSharp using System.Collections;
+
+
+```
+csharp using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEditor;
@@ -52,7 +55,6 @@ public class AtaqueT : MonoBehaviour
         Destroy(obj1);
     }
 
-}
----
+
 
 
