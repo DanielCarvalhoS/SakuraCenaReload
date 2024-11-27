@@ -116,6 +116,11 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 ![Mapa Boss](https://github.com/user-attachments/assets/ee736eb2-2c4e-4d01-968a-afe189f2ccd8)
 ![Assets casas](https://github.com/user-attachments/assets/18bf9e84-d7cd-4f4b-be1e-638bd8c3847c)
 ![Ambiente](https://github.com/user-attachments/assets/24153abd-0e23-48aa-9017-6990f89195e8)
+![Vitoria](https://github.com/user-attachments/assets/5123fcf8-98c7-493d-9d30-05c50f218694)
+
+
+https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
+
 
 ----------------------------------------------------------------------------------------
 
