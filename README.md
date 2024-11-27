@@ -38,6 +38,8 @@ https://drive.google.com/file/d/1OR4JvSr23NMEF7qWJ47SpqGZiZYVAnaV/view?usp=shari
 
 Para a criação do jogo, primeiro analisamos alguns episódios do série animada, Sakura CardCaptors (Primeira temporada), que tiveram o uso da transformação, e, decidimos fazer uma breve adaptação dos primeiros episódios, onde a Sakura enfrenta o seu primeiro inimigo. Com isso fizemos um jogo semelhante a tal cena, onde a Sakura vê o monstro e anda sobre tetos para chegar nela, para quando chegar, enfrentar o monstro e finalmente conseguir ativar a transformação para enfrenta-lo, salvando a cidade.
 
+----------------------------------------------------------------------------------------
+
 ### Gameplay Geral
 
 Utilizamos a movimentação básica com o Vector3, entregando liberdade perante todos os eixos, X, Y e Z. Aproveitando esse método utilizado, pegamos e fizemos os nossos botões interativos, sendo os movimentos no chão (InGround) W, A, S, D,  para o básico (Eixos X e Z)  e outras alterações como, "Space" para pular (Eixo Y). 
@@ -46,6 +48,8 @@ Com adição, temos o botão Shift, que acelera a velocidade de movimento pelos 
 Indo para outros lados, temos a utilização de alguns botões especiais, sendo eles a transformação e posteriormente o ataque.
 Entregamos o botão Q, para adicionar uma transformação que puxa outro Prefab com efeitos visuais, possibilitando o player de dar dano contra o Boss.
 Assim, após entrar na transformação, é entregue a possibilidade do uso de ataques poderosos. Com o botão E, é lançado uma rajada de energia que ao encostar retira uma parte da vida do próprio Boss.
+
+----------------------------------------------------------------------------------------
 
 ### Mapas
 
@@ -59,6 +63,8 @@ Caso o Player caia no chão, ele será retornado para o ponto de início, tendo 
 Indo para o segundo mapa, começamos uma parte bem diferente da anterior. Uma batalha se inicia contra o Boss nomeado de "Boo".
 O Boss ficará seguindo o player por todo o mapa, que tem o foco de conseguir encosta-lo para conseguir derrotar ele. Entretanto, o player agora consegue contra-atacar usando a sua transformação, que após acertar uma certa quantidade, o Boss morre e puxa o menu.
 
+----------------------------------------------------------------------------------------
+
 #### Mapas Extras
 Menu: É a primeira tela do jogo. Ela serve para iniciar a sua jogatina, ou, apenas sair do jogo. Além de te introduzir para o tema abordado no jogo.
 
@@ -67,6 +73,8 @@ Missao(Pré Mapa da cidade): Um mapa simples que serve como indicativo do motivo
 Derrota(Batalha do Boss): Caso você perca para o Boss, ou seja, você for acertado por ele, você será colocado nesta cena de derrota, o que te entrega a oportunidade de esperar um pouco, se preparar e colocar para tentar novamente. 
 
 Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", você será teletransportado para essa cena, que agradece e parabeniza a sua vitória. Com isso a cena te possibilita a voltar para o Menu, podendo reiniciar ou apenas sair do jogo.
+
+----------------------------------------------------------------------------------------
 
 AssetStore
 
