@@ -1,12 +1,18 @@
 --------------------------------------------------------------------------------------
-[!Important]
-Projeto: Criação de cena usando filme/série como referência.
+>[!Important]
+>
+>
+>Projeto: Criação de cena usando filme/série como referência.
+>
 Filme/Série usado: Sakura CardCaption
+>
+>
+>Escola: Etec Professor Basilides de Godoy
+>
+>Turma: 2 MTEC Programação de Jogos Digitais
+>
+>Nome dos participantes: Daniel Carvalho da Silva & Igor Cafazzi
 
-Escola: Etec Professor Basilides de Godoy
-Turma: 2 MTEC Programação de Jogos Digitais
-Nome dos participantes: Daniel Carvalho da Silva & Igor Cafazzi
-[!Important]
 
 ![image](https://github.com/user-attachments/assets/f90ba345-1b50-4f09-bf0a-6f9206c910da)
 
