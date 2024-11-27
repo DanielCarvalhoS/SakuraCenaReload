@@ -1,4 +1,12 @@
 --------------------------------------------------------------------------------------
+[!Important]
+Projeto: Criação de cena usando filme/série como referência.
+Filme/Série usado: Sakura CardCaption
+
+Escola: Etec Professor Basilides de Godoy
+Turma: 2 MTEC Programação de Jogos Digitais
+Nome dos participantes: Daniel Carvalho da Silva & Igor Cafazzi
+[!Important]
 
 ![image](https://github.com/user-attachments/assets/f90ba345-1b50-4f09-bf0a-6f9206c910da)
 
@@ -20,7 +28,7 @@ https://drive.google.com/file/d/1OR4JvSr23NMEF7qWJ47SpqGZiZYVAnaV/view?usp=shari
 ----------------------------------------------------------------------------------------
 
 Enredo && Ideia
-Para a criação do jogo, primeiro analisamos alguns episódios que tiveram o uso da transformação, e, decidimos fazer uma breve adaptação dos primeiros episódios, onde a Sakura enfrenta o seu primeiro inimigo. Com isso fizemos um jogo semelhante a tal cena, onde a Sakura vê o monstro e anda sobre tetos para chegar nela, para quando chegar, enfrentar o monstro e finalmente conseguir ativar a transformação para enfrenta-lo, salvando a cidade.
+Para a criação do jogo, primeiro analisamos alguns episódios do série animada, Sakura CardCaptors (Primeira temporada), que tiveram o uso da transformação, e, decidimos fazer uma breve adaptação dos primeiros episódios, onde a Sakura enfrenta o seu primeiro inimigo. Com isso fizemos um jogo semelhante a tal cena, onde a Sakura vê o monstro e anda sobre tetos para chegar nela, para quando chegar, enfrentar o monstro e finalmente conseguir ativar a transformação para enfrenta-lo, salvando a cidade.
 
 Gameplay Geral
 Utilizamos a movimentação básica com o Vector3, entregando liberdade perante todos os eixos, X, Y e Z. Aproveitando esse método utilizado, pegamos e fizemos os nossos botões interativos, sendo os movimentos no chão (InGround) W, A, S, D,  para o básico (Eixos X e Z)  e outras alterações como, "Space" para pular (Eixo Y). 
