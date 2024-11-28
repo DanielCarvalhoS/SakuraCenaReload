@@ -13,7 +13,7 @@
 >
 >Nome dos participantes: Daniel Carvalho da Silva & Igor Cafazzi
 >
->Agradecimentos Extras: Gabriel Lima & Igor Michelini 
+>**Agradecimentos Extras: Gabriel Lima & Igor Michelin**
 
 
 # SAKURA HOPE (SAKURA'S CARDPCAPTION INSPIRATION)
