@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------------
 >[!Important]
 >
+>----
 >
 >Projeto: Criação de cena usando filme/série como referência.
 >
@@ -16,6 +17,7 @@
 >----
 >
 >**Agradecimentos Extras: Gabriel Lima & Igor Michelin**
+>Ajudara nos scripts
 >
 >----
 
