@@ -43,6 +43,13 @@ https://drive.google.com/file/d/1OR4JvSr23NMEF7qWJ47SpqGZiZYVAnaV/view?usp=shari
 
 ----------------------------------------------------------------------------------------
 
+O que cada um fez?
+Daniel Carvalho: Fiquei na parte da programação e em fazer os mapas. Fiz a parte dos modelos também e adicionei alguns VFX's no mapa. Efetuei a parte do Diagrama e também em algumas partes do Git hub, junto da ideia geral de o que fazer e como fazer.
+
+Igor Cafazzi: Escrevi a teoria das cores e análises de personagens. No projeto fiz as telas de menu (main menu, tela de vitória e derrota) e script para troca de cenas.
+
+----------------------------------------------------------------------------------------
+
 ## História e análises
 
 A história conta a caminhada da protagonista Sakura Kinomoto. Sakura é uma jovem estudante que vive uma vida pacífica e normal; junto de seu Pai e Irmão.
