@@ -17,7 +17,8 @@
 >----
 >
 >**Agradecimentos Extras: Gabriel Lima & Igor Michelin**
->Ajudara nos scripts
+>
+>Ajudaram nos scripts
 >
 >----
 
