@@ -16,6 +16,7 @@
 >----
 >
 >**Agradecimentos Extras: Gabriel Lima & Igor Michelin**
+>----
 
 
 # SAKURA HOPE (SAKURA'S CARDPCAPTION INSPIRATION)
