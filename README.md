@@ -12,6 +12,8 @@
 >Turma: 2 MTEC Programação de Jogos Digitais
 >
 >Nome dos participantes: Daniel Carvalho da Silva & Igor Cafazzi
+>
+>Agradecimentos Extras: Gabriel Lima & Igor Michelini 
 
 
 # SAKURA HOPE (SAKURA'S CARDPCAPTION INSPIRATION)
@@ -649,5 +651,10 @@ public class BossMove : MonoBehaviour
 ```
 
 -----------------------------------------------------------------------------------------------
+
+# Diagrama de Classe
+
+![image](https://github.com/user-attachments/assets/29d1153b-22da-49e1-9008-896fe2ec84fa)
+
 
 
