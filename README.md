@@ -58,21 +58,32 @@ Para o primeiro mapa, queremos entregar uma oportunidade ao jogador de entender 
 É um mapa extremamente fácil, que remete as ações dos primeiros episódios, em um momento na call Sakura não conseguia voar em sua varinha. 
 Caso o Player caia no chão, ele será retornado para o ponto de início, tendo que recomeçar o Parkour completo.
 
+![MapaCidade](https://github.com/user-attachments/assets/1d6466bb-8bb0-49d3-8f65-6bb1f0eab940)
 
 2° Mapa (A batalha decisiva): 
 Indo para o segundo mapa, começamos uma parte bem diferente da anterior. Uma batalha se inicia contra o Boss nomeado de "Boo".
 O Boss ficará seguindo o player por todo o mapa, que tem o foco de conseguir encosta-lo para conseguir derrotar ele. Entretanto, o player agora consegue contra-atacar usando a sua transformação, que após acertar uma certa quantidade, o Boss morre e puxa o menu.
+
+![Mapa Boss](https://github.com/user-attachments/assets/ee736eb2-2c4e-4d01-968a-afe189f2ccd8)
 
 ----------------------------------------------------------------------------------------
 
 #### Mapas Extras
 Menu: É a primeira tela do jogo. Ela serve para iniciar a sua jogatina, ou, apenas sair do jogo. Além de te introduzir para o tema abordado no jogo.
 
+![Menu](https://github.com/user-attachments/assets/f715675d-b088-4149-9f7b-11160647fc04)
+
 Missao(Pré Mapa da cidade): Um mapa simples que serve como indicativo do motivo para o que você está fazendo, e para onde você irá.
+
+![Missãop](https://github.com/user-attachments/assets/ab674fcc-acf3-4c99-a08b-ba6c850641a6)
 
 Derrota(Batalha do Boss): Caso você perca para o Boss, ou seja, você for acertado por ele, você será colocado nesta cena de derrota, o que te entrega a oportunidade de esperar um pouco, se preparar e colocar para tentar novamente. 
 
+![Derrotada](https://github.com/user-attachments/assets/6c1d26f4-f2fa-460a-bcf4-0e25c4d94847)
+
 Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", você será teletransportado para essa cena, que agradece e parabeniza a sua vitória. Com isso a cena te possibilita a voltar para o Menu, podendo reiniciar ou apenas sair do jogo.
+
+![Vitoria](https://github.com/user-attachments/assets/5123fcf8-98c7-493d-9d30-05c50f218694)
 
 ----------------------------------------------------------------------------------------
 
@@ -108,15 +119,12 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 ----------------------------------------------------------------------------------------
 
 ### Prefabs && Modelos
-![Derrotada](https://github.com/user-attachments/assets/6c1d26f4-f2fa-460a-bcf4-0e25c4d94847)
+
 ![Boo](https://github.com/user-attachments/assets/8e52eff2-453f-4d6c-b2ae-c7b732734ef5)
-![Missãop](https://github.com/user-attachments/assets/ab674fcc-acf3-4c99-a08b-ba6c850641a6)
-![Menu](https://github.com/user-attachments/assets/f715675d-b088-4149-9f7b-11160647fc04)
-![MapaCidade](https://github.com/user-attachments/assets/1d6466bb-8bb0-49d3-8f65-6bb1f0eab940)
-![Mapa Boss](https://github.com/user-attachments/assets/ee736eb2-2c4e-4d01-968a-afe189f2ccd8)
+
 ![Assets casas](https://github.com/user-attachments/assets/18bf9e84-d7cd-4f4b-be1e-638bd8c3847c)
+
 ![Ambiente](https://github.com/user-attachments/assets/24153abd-0e23-48aa-9017-6990f89195e8)
-![Vitoria](https://github.com/user-attachments/assets/5123fcf8-98c7-493d-9d30-05c50f218694)
 
 
 https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
@@ -125,6 +133,8 @@ https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
 ----------------------------------------------------------------------------------------
 
 ### VFX
+
+
 
 ----------------------------------------------------------------------------------------
 
