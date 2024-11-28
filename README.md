@@ -34,13 +34,13 @@ https://drive.google.com/file/d/1OR4JvSr23NMEF7qWJ47SpqGZiZYVAnaV/view?usp=shari
 
 ----------------------------------------------------------------------------------------
 
-###História e análises
+## História e análises
 
 A história conta a caminhada da protagonista Sakura Kinomoto. Sakura é uma jovem estudante que vive uma vida pacífica e normal; junto de seu Pai e Irmão.
 Sakura em algum momento começou a investigar a casa de seu Pai, assim, encontrando um livro brilhante e chamativo, o que fez ela ficar curiosa e investigar sobre. Sakura abre o livro e acaba liberando uma quantidade exuberante de cartas, que passam o teto e começam a voar para todos os cantos do mundo, que claramente assustou Sakura. Alguns segundos após, Kerberus aparece e explica algumas coisas para a Sakura, mas, príncipalmente o que são as CardCarptors. Kerberus precisando de ajuda, clama para Sakura virar uma CardCaptor, na qual acaba aceitando depois de um tempo, e, usando uma chave que posteriormente vira uma varinha. 
 Sakura parte em direção da sua primeira batalha contra uma das cartas, "The Fly", um grande pássaro branco, que confronta Sakura e entra em uma batalha épica. Sakura após uma longa luta, derrota e consegue capturar a carta "The Fly", assim, iniciando a sua aventura em busca de todas as outras cartas, para cumprir o chamado e também a promessa de ajuda com o Kerberus.
 
-#### Teoria das cores - Anime
+### Teoria das cores - Anime
 
 Em Sakura Card Captor, a teoria das cores é usada para refletir o estado emocional dos personagens, suas personalidades e também os temas principais do anime, como magia e transformações
 
@@ -55,7 +55,7 @@ Emoções: Em cenas emocionalmente intensas, como confrontos entre personagens o
 Nos momentos de calma, as cores são mais suaves e harmoniosas, transmitindo a paz e a inocência de Sakura nesses momentos
 
 
-#### Personagens
+### Personagens
 
 Sakura:
 A protagonista da história. Tem 10 anos, é gentil, extrovertida e vibrante, tem cabelo castanho e usa muitas roupas rosas e brancas. No primeiro episódio se torna uma "card captor", tendo como objetivo capturar as Cartas Clow, porém Sakura também lida com coisas além das cartas, como amor, inseguranças e amizades. Sua evolução nas habilidades como uma "card captor" é evidente ao longo do anime, além de seu desenvolvimento enquanto personagem.
