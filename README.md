@@ -34,6 +34,65 @@ https://drive.google.com/file/d/1OR4JvSr23NMEF7qWJ47SpqGZiZYVAnaV/view?usp=shari
 
 ----------------------------------------------------------------------------------------
 
+###História e análises
+
+A história conta a caminhada da protagonista Sakura Kinomoto. Sakura é uma jovem estudante que vive uma vida pacífica e normal; junto de seu Pai e Irmão.
+Sakura em algum momento começou a investigar a casa de seu Pai, assim, encontrando um livro brilhante e chamativo, o que fez ela ficar curiosa e investigar sobre. Sakura abre o livro e acaba liberando uma quantidade exuberante de cartas, que passam o teto e começam a voar para todos os cantos do mundo, que claramente assustou Sakura. Alguns segundos após, Kerberus aparece e explica algumas coisas para a Sakura, mas, príncipalmente o que são as CardCarptors. Kerberus precisando de ajuda, clama para Sakura virar uma CardCaptor, na qual acaba aceitando depois de um tempo, e, usando uma chave que posteriormente vira uma varinha. 
+Sakura parte em direção da sua primeira batalha contra uma das cartas, "The Fly", um grande pássaro branco, que confronta Sakura e entra em uma batalha épica. Sakura após uma longa luta, derrota e consegue capturar a carta "The Fly", assim, iniciando a sua aventura em busca de todas as outras cartas, para cumprir o chamado e também a promessa de ajuda com o Kerberus.
+
+#### Teoria das cores - Anime
+
+Em Sakura Card Captor, a teoria das cores é usada para refletir o estado emocional dos personagens, suas personalidades e também os temas principais do anime, como magia e transformações
+
+Sakura: O branco e o rosa são as cores predominantes de Sakura, com o branco associado à sua pureza e inocência, enquanto o rosa simboliza a doçura, simpatia e o amor. A mistura dessas cores reflete a natureza gentil e vibrante de Sakura, bem como seu crescimento ao longo da história.
+
+Cartas: Cada carta tem uma cor característica que representa seu poder e personalidade. Por exemplo, a carta Fogo tem tons de vermelho e laranja, evocando paixão, calor e intensidade, enquanto a carta Água tem tons de azul e turquesa, associados à calma, adaptação e fluidez. Esse esquema deixa cada carta mais característica e mais fácil de entender seu poder.
+
+Magia: A magia de Sakura é geralmente representada com tons pastel e suaves, reforçando a ideia de que ela usa seus poderes para ajudar e proteger, ao contrário de outros personagens cujas magias são mais intensas ou sombrias.
+As cores da chave e bastão mágico da Sakura são rosa e dourado, que simbolizam amor e proteção.
+
+Emoções: Em cenas emocionalmente intensas, como confrontos entre personagens ou desafios para capturar cartas, as cores são mais foscas e escuras (como preto e azul-escuro), que refletem o conflito e a tensão. Isso ocorre com frequência em cenas de transformação, com muitos efeitos visuais, porém com fundo escuro, dando foco apenas na Sakura.
+Nos momentos de calma, as cores são mais suaves e harmoniosas, transmitindo a paz e a inocência de Sakura nesses momentos
+
+
+#### Personagens
+
+Sakura:
+A protagonista da história. Tem 10 anos, é gentil, extrovertida e vibrante, tem cabelo castanho e usa muitas roupas rosas e brancas. No primeiro episódio se torna uma "card captor", tendo como objetivo capturar as Cartas Clow, porém Sakura também lida com coisas além das cartas, como amor, inseguranças e amizades. Sua evolução nas habilidades como uma "card captor" é evidente ao longo do anime, além de seu desenvolvimento enquanto personagem.
+
+Teoria das cores: O castanho do cabelo de Sakura, uma cor terrosa e estável, reflete sua conexão com o mundo real, sua gentileza e natureza pé no chão. Já o rosa, associado ao amor e à inocência, reforça sua personalidade doce e sensível, enquanto o branco simboliza pureza e a força interior que ela vai descobrindo ao longo de sua jornada.
+
+
+Kerberos:
+É o guardião do lacre das Cartas Clow, porém, por conta das cartas terem fugido, ele perdeu parcialmente seus poderes e não está mais em sua forma original, tendo agora uma forma mais fofa. Ele é amarelo, com asas brancas, e é um companheiro leal a Sakura, servindo como alívio cômico em alguns momentos.
+
+Teoria das cores: O amarelo de Kerberos está associado à energia, felicidade e otimismo, o que reflete seu papel como o lado mais alegre e vibrante dos guardiões. Já as asas brancas de Kerberos representam a pureza e a responsabilidade que ele carrega.
+
+
+Shoran Li:
+É um garoto pequeno com cabelos castanhos. É herdeiro de Clow Reed (o criador das Cartas Clow) e, por conta disso, ele rivaliza com Sakura, acreditando que por ser um herdeiro de Clow Reed, é o único que merece capturar as cartas. Conforme a história avança, Shoran, que era frio e cínico, começa a desenvolver uma paixão por Sakura. Após muito tempo, Shoran confessa seu amor por Sakura e eles têm um relacionamento.
+
+Teoria das cores: O cabelo castanho de Shoran, como o de Sakura, conecta-o a uma natureza mais centrada e enraizada. Ele começa com uma postura rígida, mas, ao longo da série, seu lado mais emocional emerge, refletindo o equilíbrio entre força e sensibilidade que a cor marrom sugere.
+
+
+Tomoyo:
+Uma garota de olhos roxos e cabelo violeta. É a melhor amiga de Sakura, possui uma grande admiração por ela e gosta muito de filmar Sakura e suas aventuras. É ela também quem faz os trajes que Sakura usa ao longo do anime, sendo uma grande companheira, assim como Kerberos.
+
+Teoria das cores: O roxo dos olhos e violeta do cabelo de Tomoyo simboliza mistério, sabedoria e sensibilidade, características que definem bem sua personalidade leal e observadora, além de criatividade, que define o fato dela fazer os trajes de Sakura.
+
+
+Yukito:
+Melhor amigo do irmão de Sakura, tem cabelo cinza e olhos castanhos. Sakura é apaixonada por ele, por ser gentil e bonito na visão dela. Ele é a forma humana do guardião mágico da lua, Yue, que foi criado para proteger as Cartas Clow e servir ao mestre das cartas. Conforme a série avança, Yukito começa a sofrer de lapsos de memória e perda de energia, resultado da incapacidade de Yue de sustentar sua forma humana sem o poder mágico de um mestre adequado, o que culmina na batalha entre Yue e Sakura, onde Yue precisa ser "salvo" pela aceitação de Sakura como sua nova mestra. Sakura prova ser digna, e Yue a aceita.
+
+Teoria das cores: O cinza do cabelo de Yukito é uma cor neutra, muitas vezes associada à calma e equilíbrio, refletindo sua natureza gentil. Seus olhos castanhos, por outro lado, revelam a profundidade emocional e conexão com o mundo real, além de sua estabilidade e confiabilidade. Como Yue, essa neutralidade muda para um poder mais frio e distante.
+
+
+Eriol:
+Eriol tem cor de cabelo preto-azulado e olhos cinza, aparenta ser um pré-adolescente de 13 anos, porém, sua idade real é desconhecida. Ele é a reencarnação de Clow Reed, possuindo uma aparência semelhante à do mago e poderes e memórias que Clow Reed tinha.
+
+Teoria das cores: O preto-azulado de Eriol remete ao mistério e ao oculto, simbolizando o vasto conhecimento e poder mágico que ele carrega dentro de si, além de sua conexão com o passado de Clow Reed.
+----------------------------------------------------------------------------------------
+
 ### Enredo && Ideia
 
 Para a criação do jogo, primeiro analisamos alguns episódios do série animada, Sakura CardCaptors (Primeira temporada), que tiveram o uso da transformação, e, decidimos fazer uma breve adaptação dos primeiros episódios, onde a Sakura enfrenta o seu primeiro inimigo. Com isso fizemos um jogo semelhante a tal cena, onde a Sakura vê o monstro e anda sobre tetos para chegar nela, para quando chegar, enfrentar o monstro e finalmente conseguir ativar a transformação para enfrenta-lo, salvando a cidade.
@@ -121,6 +180,10 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 
 https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
 
+
+----------------------------------------------------------------------------------------
+
+Teoria das Cores
 
 ----------------------------------------------------------------------------------------
 
