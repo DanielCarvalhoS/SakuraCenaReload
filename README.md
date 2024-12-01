@@ -112,7 +112,11 @@ Teoria das cores: O preto-azulado de Eriol remete ao mistério e ao oculto, simb
 ### Enredo && Ideia
 
 Para a criação do jogo, primeiro analisamos alguns episódios do série animada, Sakura CardCaptors (Primeira temporada), que tiveram o uso da transformação, e, decidimos fazer uma breve adaptação dos primeiros episódios, onde a Sakura enfrenta o seu primeiro inimigo. Com isso fizemos um jogo semelhante a tal cena, onde a Sakura vê o monstro e anda sobre tetos para chegar nela, para quando chegar, enfrentar o monstro e finalmente conseguir ativar a transformação para enfrenta-lo, salvando a cidade.
+O jogo utilizamos a Sakura como personagem principal para ficar de acordo com a série.
 
+As cores tentamos colocar uma utilização de FOG roxa, para mostrar o lado mais feminino da Sakura, e, também por conta da sua personalidade.
+Com as transformação tentamos ser fiéis ao anime, que quando transforma nós temos um circulo amarelo, indicando que ela é a esperança e salvação.
+E por fim, o boss, colocamos ele sendo um cinza para tentar parecer com o primeiro monstro que a Sakura luta.
 ----------------------------------------------------------------------------------------
 
 ### Gameplay Geral
@@ -166,18 +170,16 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Teste](https://fonts.google.com/)| ... |
-| [Teste](https://www.dafont.com/)| ... |
-| [Teste](https://usemodify.com/)| ... |
-| [Teste](https://www.1001freefonts.com/)| ... |
-| [Teste](https://www.fontsquirrel.com/)| ... |
-| [Teste](https://www.fontfabric.com/free-fonts/)| ... |
-| [Teste](https://justfreefonts.com/)| ... |
-| [Teste](https://winniethemu.github.io/tiff/)| ... |
-| [Teste](https://practice.typekit.com/)| ... |
-| [Teste](https://fontjoy.com/)| ... |
-| [Teste](https://grtcalculator.com/)| ... |
-| [Teste](https://www.fontget.com/) | ... |
+| [BOKI](https://assetstore.unity.com/packages/3d/environments/boki-low-poly-nature-206385)| ... |
+| [SKYBOX](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400)| ... |
+| [SAKURA STAFF](https://sketchfab.com/3d-models/cardcaptor-sakura-yume-no-staff-151a189cb13c469b89419f9688540461)| ... |
+| [Dragons](https://assetstore.unity.com/packages/3d/characters/creatures/dragon-the-soul-eater-and-dragon-boar-77121)| ... |
+| [House](https://assetstore.unity.com/packages/3d/environments/house-pack-35346)| ... |
+| [VFX Transform](https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933)| ... |
+| [Kiki](https://assetstore.unity.com/packages/3d/characters/humanoids/anime-x-mas-girl-185812)| ... |
+| [Low Poly Fire](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190)| ... |
+| [Low Poly Houses](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926)| ... |
+| [Tree](https://assetstore.unity.com/packages/3d/vegetation/trees/lowpoly-trees-package-lite-295464)| ... |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
