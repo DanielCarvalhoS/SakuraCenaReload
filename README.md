@@ -168,18 +168,21 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 
 ### AssetStore
 
+>[!Important]
+>Clique para abrir o site!
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [BOKI](https://assetstore.unity.com/packages/3d/environments/boki-low-poly-nature-206385)| ... |
-| [SKYBOX](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400)| ... |
-| [SAKURA STAFF](https://sketchfab.com/3d-models/cardcaptor-sakura-yume-no-staff-151a189cb13c469b89419f9688540461)| ... |
-| [Dragons](https://assetstore.unity.com/packages/3d/characters/creatures/dragon-the-soul-eater-and-dragon-boar-77121)| ... |
-| [House](https://assetstore.unity.com/packages/3d/environments/house-pack-35346)| ... |
-| [VFX Transform](https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933)| ... |
-| [Kiki](https://assetstore.unity.com/packages/3d/characters/humanoids/anime-x-mas-girl-185812)| ... |
-| [Low Poly Fire](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190)| ... |
-| [Low Poly Houses](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926)| ... |
-| [Tree](https://assetstore.unity.com/packages/3d/vegetation/trees/lowpoly-trees-package-lite-295464)| ... |
+| [BOKI](https://assetstore.unity.com/packages/3d/environments/boki-low-poly-nature-206385)| Ambiente |
+| [SKYBOX](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400)| Skybox |
+| [SAKURA STAFF](https://sketchfab.com/3d-models/cardcaptor-sakura-yume-no-staff-151a189cb13c469b89419f9688540461)| Cajado |
+| [Dragons](https://assetstore.unity.com/packages/3d/characters/creatures/dragon-the-soul-eater-and-dragon-boar-77121)| Boss |
+| [House](https://assetstore.unity.com/packages/3d/environments/house-pack-35346)| Mapa |
+| [VFX Transform](https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933)| VFX Transformação |
+| [Kiki](https://assetstore.unity.com/packages/3d/characters/humanoids/anime-x-mas-girl-185812)| Sakura |
+| [Low Poly Fire](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190)| VFX Ataque |
+| [Low Poly Houses](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926)| Chão |
+| [Tree](https://assetstore.unity.com/packages/3d/vegetation/trees/lowpoly-trees-package-lite-295464)| Ambiente |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
