@@ -121,6 +121,7 @@ Teoria das cores: O cinza do cabelo de Yukito é uma cor neutra, muitas vezes as
 Eriol tem cor de cabelo preto-azulado e olhos cinza, aparenta ser um pré-adolescente de 13 anos, porém, sua idade real é desconhecida. Ele é a reencarnação de Clow Reed, possuindo uma aparência semelhante à do mago e poderes e memórias que Clow Reed tinha.
 
 Teoria das cores: O preto-azulado de Eriol remete ao mistério e ao oculto, simbolizando o vasto conhecimento e poder mágico que ele carrega dentro de si, além de sua conexão com o passado de Clow Reed.
+
 ----------------------------------------------------------------------------------------
 
 ### Enredo && Ideia
@@ -151,11 +152,14 @@ Para o primeiro mapa, queremos entregar uma oportunidade ao jogador de entender 
 É um mapa extremamente fácil, que remete as ações dos primeiros episódios, em um momento na call Sakura não conseguia voar em sua varinha. 
 Caso o Player caia no chão, ele será retornado para o ponto de início, tendo que recomeçar o Parkour completo.
 
+
 ![MapaCidade](https://github.com/user-attachments/assets/1d6466bb-8bb0-49d3-8f65-6bb1f0eab940)
+
 
 2° Mapa (A batalha decisiva): 
 Indo para o segundo mapa, começamos uma parte bem diferente da anterior. Uma batalha se inicia contra o Boss nomeado de "Boo".
 O Boss ficará seguindo o player por todo o mapa, que tem o foco de conseguir encosta-lo para conseguir derrotar ele. Entretanto, o player agora consegue contra-atacar usando a sua transformação, que após acertar uma certa quantidade, o Boss morre e puxa o menu.
+
 
 ![Mapa Boss](https://github.com/user-attachments/assets/ee736eb2-2c4e-4d01-968a-afe189f2ccd8)
 
@@ -206,11 +210,19 @@ Vitoria(Batalha do Boss): Com você reduzindo a fonte de vida do Boss para "0", 
 
 ### Prefabs && Modelos
 
+#### Chefe
+
 ![Boo](https://github.com/user-attachments/assets/8e52eff2-453f-4d6c-b2ae-c7b732734ef5)
+
+#### Cidade
 
 ![Assets casas](https://github.com/user-attachments/assets/18bf9e84-d7cd-4f4b-be1e-638bd8c3847c)
 
+#### Ambiente
+
 ![Ambiente](https://github.com/user-attachments/assets/24153abd-0e23-48aa-9017-6990f89195e8)
+
+#### Personagem
 
 
 https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
@@ -218,13 +230,6 @@ https://github.com/user-attachments/assets/14a7290d-9621-4274-968d-93fa17ac37f4
 
 ----------------------------------------------------------------------------------------
 
-Teoria das Cores
-
-----------------------------------------------------------------------------------------
-
-### Tags
-
----------------------------------------------------------------------------------------
 
 ```csharp
 using System.Collections;
@@ -260,6 +265,11 @@ public class Menu : MonoBehaviour
 }
 
 ```
+
+Feito para aplicar todos os botões.
+SceneManager.LoadScene(") É uma ação para puxar a cena após certa ação, que, no jogo é apertar o botão.
+Todos estão públicos para conseguir atribuir nas propriedades do jogo.
+
 ------------------------------------------------------------
 ```csharp
 using System.Collections;
@@ -363,6 +373,24 @@ namespace SD
         }
     }
 ```
+
+Script usado para as animações e certas colisões do personagem. 
+Void FixedUpdate: 
+
+Um método que pega os movimento do usuário e verifica para onde está indo, assim, fazendo a animação específica para tal.
+Input.GetAxis: Pegar o eixo específico.
+
+!Mathf: 
+
+Fornece constantes e métodos estáticos para trigonométricos, logarítmicos e outras funções matemáticas comuns.
+OnTriggerExit(Collider other):
+
+Pega um Trigger que tenha encostado em outro trigger.
+
+SceneManager.LoadScene:
+
+Abrir outros mapas.
+
 -------------------------------------------------------------------
 ```csharp
 using System.Collections;
@@ -444,6 +472,19 @@ public class Movimento : MonoBehaviour
     }
 }
 ```
+
+"?":
+
+Funciona semelhantemente ao "Else" da programação.
+
+characterController: 
+
+Mesh necessário para o código funcionar (Semelhante ao collider).
+
+Quaternion.Euler:
+
+Retorna uma rotação que gira z graus em torno do eixo z, x graus em torno do eixo x e y graus em torno do eixo y; aplicados nessa ordem.
+
 ---------------------------------------------------------------
 
 ---------------------------------------------------------------
@@ -472,6 +513,11 @@ public class Sakura
 }    
 ```
 
+Classe Sakura que pega os métodos, Move, Vida, Transformar e Coldown para conseguir ser usados em outros scripts ou classes.
+
+{get; set;}:
+
+Serve para pegar uma váriavel e ler ela (Get) e também para conseguir atribuir essa váriavel (Set).
 
 ---------------------------------------------------------------
 
@@ -530,6 +576,22 @@ public class AtaqueT : MonoBehaviour
     }
 ```
 
+
+AtaqueT serve para aplicar um botão que spawna o poder e também atribui uma velocidade para tal, mas, também serve para entregar a transformação da Sakura. Verifica se a Sakura está transformada para atacar.
+
+Input.GetKeyDown("""):
+
+É uma ação que quando efetuada faz uma reação. No nosso jogo é usado para transformar e atacar. 
+
+Replace:
+
+Instancia os objetos 1 e 2 (Sakura e sua forma transformada) e destroi a Sakura normal.
+
+Quaternion.identity:
+
+Este quatérnio corresponde a "sem rotação" - o objeto está perfeitamente alinhado com o mundo ou os eixos pais.
+
+
 -------------------------------------------------------------------------------------
 
 ```csharp
@@ -562,6 +624,8 @@ public class SakuraTransformada : MonoBehaviour
 }
 ```
 
+Usado para colocar o script de ataque na Sakura Transformada, que faz a mesma coisa do AtaqueT.
+
 -----------------------------------------------------------------------------------------
 
 ```csharp
@@ -587,6 +651,12 @@ public class Magia : MonoBehaviour
     }
 }
 ```
+
+Scritp colocado no Prefab do poder, assim entregando velocidade ao poder e também destroi o objeto quando tem colisão.
+
+Time.deltaTime:
+
+Cria um intervalo em segundos do ultimo frame.
 
 -----------------------------------------------------------------------------------------
 
@@ -618,6 +688,12 @@ public class Boss
     }
 }
 ```
+
+Classe do boss com métodos publicos e atributo público para conseguir ser usado em outros scripts.
+
+Hp:
+
+Tira um ponto de Hp do boss, que, após ser zerado puxa a cena de vitória.
 
 ---------------------------------------------------------------------------------------
 
@@ -683,11 +759,16 @@ public class BossMove : MonoBehaviour
 }
 ```
 
+Script usado para a movimentação, focar no player, colisão e levar dano.
+
+
 -----------------------------------------------------------------------------------------------
 
 # Diagrama de Classe
 
 ![image](https://github.com/user-attachments/assets/29d1153b-22da-49e1-9008-896fe2ec84fa)
+
+
 
 
 
