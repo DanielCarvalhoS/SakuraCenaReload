@@ -267,6 +267,7 @@ public class Menu : MonoBehaviour
 ```
 
 Feito para aplicar todos os botões.
+
 SceneManager.LoadScene(") É uma ação para puxar a cena após certa ação, que, no jogo é apertar o botão.
 Todos estão públicos para conseguir atribuir nas propriedades do jogo.
 
