@@ -767,8 +767,15 @@ Script usado para a movimentação, focar no player, colisão e levar dano.
 
 # Diagrama de Classe
 
+**Novo diagrama**
+Pouquissimas classes, a maioria foi usada herdando o MonoBehaviour. As classes usadas são a do player e do boss, que interagem em si por conta do dano.
+
 ![image](https://github.com/user-attachments/assets/29d1153b-22da-49e1-9008-896fe2ec84fa)
 
+**Antigo diagrama**
+Bastante classes, com a maioria interagindo entre si, podendo notar também com um sistema bem mais completo do que no jogo final.
+
+![AntigoDiagrama](https://github.com/user-attachments/assets/cd6b2050-8e19-4d21-98f9-be7fe1b3547c)
 
 
 
